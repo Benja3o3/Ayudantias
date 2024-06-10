@@ -1,1 +1,52 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "Cien años de soledad",
+        "author_id": 1,
+        "published_year": 1967
+    },
+    {
+        "id": 2,
+        "title": "Norwegian Wood",
+        "author_id": 2,
+        "published_year": 1987
+    },
+    {
+        "id": 3,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author_id": 3,
+        "published_year": 1997
+    },
+    { "id": 4, "title": "The Shining", "author_id": 4, "published_year": 1977 },
+    {
+        "id": 5,
+        "title": "Murder on the Orient Express",
+        "author_id": 5,
+        "published_year": 1934
+    },
+    {
+        "id": 6,
+        "title": "The Old Man and the Sea",
+        "author_id": 6,
+        "published_year": 1952
+    },
+    {
+        "id": 7,
+        "title": "Pride and Prejudice",
+        "author_id": 7,
+        "published_year": 1813
+    },
+    {
+        "id": 8,
+        "title": "War and Peace",
+        "author_id": 8,
+        "published_year": 1869
+    },
+    { "id": 9, "title": "Good Omens", "author_id": 9, "published_year": 1990 },
+    {
+        "id": 10,
+        "title": "American Gods",
+        "author_id": 10,
+        "published_year": 2001
+    }
+]

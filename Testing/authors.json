@@ -1,7 +1,12 @@
 [
-    {
-        "id": 1,
-        "name": "Author 1",
-        "birth_year": 1970
-    }
+    { "id": 1, "name": "Gabriel García Márquez", "birth_year": 1927 },
+    { "id": 2, "name": "Haruki Murakami", "birth_year": 1949 },
+    { "id": 3, "name": "J.K. Rowling", "birth_year": 1965 },
+    { "id": 4, "name": "Stephen King", "birth_year": 1947 },
+    { "id": 5, "name": "Agatha Christie", "birth_year": 1890 },
+    { "id": 6, "name": "Ernest Hemingway", "birth_year": 1899 },
+    { "id": 7, "name": "Jane Austen", "birth_year": 1775 },
+    { "id": 8, "name": "Leo Tolstoy", "birth_year": 1828 },
+    { "id": 9, "name": "Terry Pratchett", "birth_year": 1948 },
+    { "id": 10, "name": "Neil Gaiman", "birth_year": 1960 }
 ]
